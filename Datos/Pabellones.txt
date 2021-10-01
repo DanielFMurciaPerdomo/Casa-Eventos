@@ -1,0 +1,9 @@
+El Glamure;+33 567891234;Imagenes/pabellon1-1.jpg;1C;1
+El Grandioso;+33 567829123;Imagenes/pabellon1-2.jpg;1F;2
+El Encanto;+33 987412356;Imagenes/pabellon1-3.jpg;1B;4
+External Beauty;+81 56719234;Imagenes/pabellon2-1.jpg;2B;3
+Dracukeo;+81 5714539012;Imagenes/pabellon2-2.jpg;2A;5
+Ibiza-kun;+81 5671234956;Imagenes/pabellon2-3.jpg;2D;6
+El amor de los ojos;+34 31235715;Imagenes/pabellon3-1.jpg;3A;7
+La belleza del cuerpo;+34 56712394;Imagenes/pabellon3-2.jpg;3C;8
+El encanto en carne;+34 135279034;Imagenes/pabellon3-3.jpg;3E;9

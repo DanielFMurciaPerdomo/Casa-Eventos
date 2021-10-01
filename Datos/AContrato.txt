@@ -1,0 +1,10 @@
+1;Carlos Andres Rodriguez;POP;Solista;450;1
+2;Raul Ernerto Martinez;POP;Solista;500;2
+3;Luisa Fernanda Aguirre;SALSA;Grupo;350;3
+4;Nelson David Perez;ELECTRONICA;Grupo;350;4
+5;Steven Andres Mendoza;SALSA;Grupo;400;5
+6;Julian Eduardo Gomez;ROCK;Grupo;400;6
+7;Ernesto Jose Samper;ROCK;Solista;500;7
+8;Gustavo Jose Manrique;ELECTRONICA;Grupo;350;8
+9;Jaime Roberto Velasquez;ELECTRONICA;Solista;420;9
+10;Juan Sebastian Bejarano;SALSA;Grupo;350;1

@@ -1,0 +1,20 @@
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;QEL081426Y
+Ford Models;Estados Unidos;fmodels@fordm.com;Eileen Ford;Imagenes/AgenciaFord.jpg;51;1946;VCM632775H
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;MOM086081Z
+Wilhelmina Models;Estados Unidos;wilminahel@managency.com;Wilhelmina Cooper;Imagenes/AgenciaWilhelmina.png;54;1967;ESN815459X
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;PLM180672B
+Wilhelmina Models;Estados Unidos;wilminahel@managency.com;Wilhelmina Cooper;Imagenes/AgenciaWilhelmina.png;54;1967;OVE007152U
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;PVX109378I
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;KDL219880M
+Ford Models;Estados Unidos;fmodels@fordm.com;Eileen Ford;Imagenes/AgenciaFord.jpg;51;1946;ETE459671X
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;BPG274704E
+Wilhelmina Models;Estados Unidos;wilminahel@managency.com;Wilhelmina Cooper;Imagenes/AgenciaWilhelmina.png;54;1967;UWF646174I
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;RZS689376R
+Ford Models;Estados Unidos;fmodels@fordm.com;Eileen Ford;Imagenes/AgenciaFord.jpg;51;1946;PVM704500G
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;LFW433462F
+Wilhelmina Models;Estados Unidos;wilminahel@managency.com;Wilhelmina Cooper;Imagenes/AgenciaWilhelmina.png;54;1967;NXN464694Q
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;JLO519110M
+Ford Models;Estados Unidos;fmodels@fordm.com;Eileen Ford;Imagenes/AgenciaFord.jpg;51;1946;ORN021657C
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;DIK861370Q
+Elite Models;Francia;elitemodls@management.com;John Casablancas;Imagenes/AgenicaElite.png;50;1976;UXE947812M
+Storm Models;Reino Unido;stormodels@agency.com;Sarah Doukas;Imagenes/AgenciaStorm.jpg;53;1987;QPV752041I

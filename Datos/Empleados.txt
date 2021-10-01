@@ -1,0 +1,19 @@
+1A;Daniel Rodriguez;+33 3005672341;1300;Universidad Jorge Tadeo Lozano;Event Planner;1
+1B;Felipe Rivera;+33 3507641423;500;0;0;1
+1C;Emmanuel Garcia;+33 3577631121;400;0;0;1
+2A;Enrique Lombana;+81 6789056321;1200;Universidad de los Andes;Event Planner;2
+1D;Pablo Murcia;+33 4567892346;600;0;0;1
+1E;Sandra Forero;+33 576894523;700;0;0;1
+1F;Maria Guerrero;+33 3547810654;300;0;0;1
+1G;Isabella Del Piero;+33 6780913426;500;0;0;1
+3A;Emmanuel Cordoba;+34 4561231205;1500;Oxford University;Event Planner;3
+2B;Samuel Cristensen;+81 3467819034;500;0;0;2
+2C;Ricardo Esteban;+81 6096384976;600;0;0;2
+2D;Sergio Le Paris;+81 2795859151;400;0;0;2
+2E;Andre Reus;+81 7800817242;700;0;0;2
+2F;Nerea Pareja;+81 6130662825;300;0;0;2
+3B;Naroa Linares;+33 5270565100;600;0;0;3
+3C;Nieves Palacios;+33 6804239223;500;0;0;3
+3D;Irati del Castillo;+33 3916903649;300;0;0;3
+3E;Aina Mateu;+33 2269814549;500;0;0;3
+3F;Casimiro Barrios;+33 7968024941;550;0;0;3

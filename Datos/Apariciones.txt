@@ -1,0 +1,40 @@
+Uxia Molinero;QEL081426Y;Chaqueta de tweed a cuadros G cuadrada Gucci;Falda de tweed a cuadros G cuadrada Gucci;Spring
+Uxia Molinero;QEL081426Y;Bomber en organdi con bordado DG;Minifalda de crepe doble con decoracion DG;Spring
+Maria-Isabel Prada;VCM632775H;Moncler Moncler Grenoble Drawstring Hooded Gilet Versace;Y-3 Cloud Quilted Drawstring Skirt Versace;Spring
+Maria-Isabel Prada;VCM632775H;Moncler Grenoble Shiny Zipped Down Jacket Versace; We11done Logo Printed Mini Skirt Versace;Spring
+Aida Aguirre;MOM086081Z;Chaqueta acolchada de tweed a cuadros Gucci; Falda de seda con estampado de amapolas Gucci;Spring
+Aida Aguirre;MOM086081Z;Self-Portrait Bow-Detailed Puff Sleeve Blouse; Missoni Embroidered Logo Drawstring Shorts;Spring
+Mireia Aguilar;ESN815459X;Vestido Bonbon by Christian Dior;Vestido Bonbon by Christian Dior;Evening Dress
+Mireia Aguilar;ESN815459X;Cardigan en punto de encaje con logotipo DG; Vaqueros Grace en denim elastico DG;Evening Dress
+Maria Magdalena Diaz;PLM180672B;Camisa de seda fruncida con estampado floral Gucci; Pantalon denim organico con lavado ecologico Gucci;Evening Dress
+Maria Magdalena Diaz;PLM180672B;Suete manga corta CHRISTIAN DIOR; Vaqueros Acampanados de Denim de Alta Costura Christian Dior;Evening Dress
+Olatz Carretero;OVE007152U;2015 Re-Edition vestido con cardos Gucci; 2015 Re-Edition vestido con cardos Gucci;Summer
+Olatz Carretero;OVE007152U;Vestido Dioroma by Christian Dior; Vestido Dioroma by Christian Dior;Summer
+Nadia Carrillo;PVX109378I;Chaqueta de denim organico con gato Gucci; Falda de denim organico Gucci;Summer
+Nadia Carrillo;PVX109378I;MSGM V-Neck Printed Knit Cardigan DG MSGM; JW Anderson Oscar Wilde Capsule A-Line Patch;Summer
+Valeria Rubio;KDL219880M;Chaquete Entallada conb Capucha Christian Dior; Minifalda Plisada con Panel de cierre delantero Christian Dior;Swimwear
+Valeria Rubio;KDL219880M;Cardigan en punto de encaje con logotipo DG; Vaqueros Grace en denim elastico DG;Swimwear
+Laura Arranz;ETE459671X;Vestido Bonbon by Christian Dior;Vestido Bonbon by Christian Dior;Swimwear
+Laura Arranz;ETE459671X;Self-Portrait Knitted Flared Mini Dress; f-Portrait Knitted Flared Mini Dress;Swimwear
+Constantin Enriquez;BPG274704E;Self-Portrait Sequin-Embellished Layered Midi; Self-Portrait Sequin-Embellished Layered Midi;Designer
+Constantin Enriquez;BPG274704E;Vestido Abandon by Christian Dior; Vestido Abandon by Christian Dior;Desginer
+Melania Navarro;UWF646174I;MSGM Check Patterned Fringed Coat; Miu Miu Logo Striped Skirt;Designer
+Melania Navarro;UWF646174I;Punto de cachemira y lana Dior Mariniere color crudo y azul marino Christian Dior; Falda de largo medio Christian Dior;Designer
+Leticia Santos;RZS689376R;Vestido Dioroma by Christian Dior; Vestido Dioroma by Christian Dior;Haute Couture
+Leticia Santos;RZS689376R;Zimmermann Floral Printed Mini Dress; Zimmermann Floral Printed Mini Dress;Haute Couture
+Ana Belen Mera;PVM704500G;2015 Re-Edition vestido de chifon Gucci; 2015 Re-Edition vestido de chifon Gucci;Haute Couture
+Ana Belen Mera;PVM704500G;Cardigan de cashmere con detalle de cadena Gucci; Falda plisada de lona GG de lino Gucci;Haute Couture
+Ivet Borrego;LFW433462F;Self-Portrait Bow-Detailed Puff Sleeve Blouse; Missoni Embroidered Logo Drawstring Shorts;Winter
+Ivet Borrego;LFW433462F;2015 Re-Edition vestido con cardos Gucci; 2015 Re-Edition vestido con cardos Gucci;Winter
+Elvira Segura;NXN464694Q;Karl Lagerfeld Logo Tape Tie-Waist Dress; Karl Lagerfeld Logo Tape Tie-Waist Dress;Winter
+Elvira Segura;NXN464694Q;Isabel Marant Etoile Nibazin Pleated Dress; Isabel Marant Étoile Nibazin Pleated Dress;Winter
+Florentina Carvajal;JLO519110M;Saint Laurent Ribbed High Neck Jumper; MM6 Maison Margiela Wrap Leather Midi Skirt;Pre-Fall
+Florentina Carvajal;JLO519110M;Versace V-Neck Logo Intarsia Knit Cardigan ;A.P.C. Logo Straight-Leg Jeans;Pre-Fall
+Maria Encarnacion Adan;ORN021657C; Pinko Oversized Single Breasted Coat; JW Anderson Oscar Wilde Capsule A-Line Patch;Pre-Fall
+Maria Encarnacion Adan;ORN021657C;Chaqueta de denim organico con gato Gucci; Falda de denim organico Gucci;Pre-Fall
+Regina Antunez;DIK861370Q;Chaqueta de denim organico con gato Gucci; Falda de denim organico Gucci;Pre-Fall
+Regina Antunez;DIK861370Q;Isabel Marant Etoile Floral Printed Bomber Jacket; Falda de denim organico Gucci;Pre-Fall
+Maria Natividad Holgado;UXE947812M;Versace Zip-Detailed High Rise Pencil Skirt;Versace Zip-Detailed High Rise Pencil Skirt;Evening Dress
+Maria Natividad Holgado;UXE947812M;Oseree Sequinned Embroidery Two-Piece Bikini Set;Oseree Sequinned Embroidery Two-Piece Bikini Set;Evening Dress
+Angelina Beltran;QPV752041I;Self-Portrait Grid Sequin Embellished Mini Dress; Self-Portrait Grid Sequin Embellished Mini Dress;Evening Dress
+Angelina Beltran;QPV752041I;Moncler Moncler Grenoble Drawstring Hooded Gilet Versace; Y-3 Cloud Quilted Drawstring Skirt Versace;Evening Dress
